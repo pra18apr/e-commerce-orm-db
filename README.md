@@ -13,8 +13,6 @@
 
 ## Description
 
-[Visit the Deployed Site](https://dann-lam.github.io/e-commerce-orm-db/)
-
 This is an ecommerce app that is a practice for the backend of an e-commerce styled website.
 
 The challenges were creating the databases, creating the sequelize models, describing how relationships between the database models, and creating the routes for the API.
