@@ -39,9 +39,7 @@ Seed the data, package.json outlines how to access the seed via npm command.
 
 start the server, npm run start.
 
-Here is a quick demo of the application, a longer version can be found here: [https://raw.githubusercontent.com/dann-lam/04-29-2023-employee-database/main/walkthrough.mp4
-
-![Image of Application]([https://raw.githubusercontent.com/dann-lam/e-commerce-orm-db/main/short_demo.gif](https://github.com/kylecoding1/Project2/blob/main/togglefavorite.gif)](https://drive.google.com/file/d/1EZ2Vtd3vx3kmrLXNjoMMLvysQQY4-xRE/view?usp=sharing)
+Link of the walkthrough video: (https://drive.google.com/file/d/1EZ2Vtd3vx3kmrLXNjoMMLvysQQY4-xRE/view?usp=sharing)
 
 
 
